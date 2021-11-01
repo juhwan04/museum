@@ -22,7 +22,7 @@
 	<div class="menu-bar">
 		<ul class="menulist">
 			<li class="li0"><a href=""><i class="fas fa-landmark"></i></a></li>
-			<li class="li1"><a href="#">구석기시대</a>
+			<li class="li1"><a href="#">구석기시대 </a>
 				<div class="sub-menu">
 					<ul>
 	 					<li><a href="#">게시판</a>
