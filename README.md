@@ -86,14 +86,14 @@
 
 ## 게시판
 ### 글 목록
-![글목록](screenshot/게시판목록.png)
+![글목록](screenshot/목록.png)
 
 ### 글 등록
 ### 글의 비밀번호 설정
 ![글등록](screenshot/글등록4.png)
 
 ### 글 10개 초과시 페이징
-![페이징](screenshot/페이징.png)
+![페이징](screenshot/목록2.png)
 
 ### 수정
 ![수정](screenshot/수정.png)
@@ -113,4 +113,5 @@
 ### 
 ![알림](screenshot/수정삭제.png)
 
+### 회원탈퇴 시 글 모두 삭제
 

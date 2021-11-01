@@ -107,7 +107,7 @@ body {
 		</select><br>
 		비밀번호 : <input type="password" name="pw"><br>
 		비밀번호 확인 : <input type="password" name="pwCheck"><br>
-		전화번호 : <input type="tel" name="phone" pattern="[0][1][0](\s|-|)[0-9]{4}(\s|-|)[0-9]{4}"><br>
+		전화번호 : <input type="tel" name="phone" pattern="[0][1][0](\s|-|)[0-9]{4}(\s|-|)[0-9]{4}(\s|){5}"><br>
 		성별 : <select name="gender">
 				<option value="남자">남자</option>
 				<option value="여자">여자</option>

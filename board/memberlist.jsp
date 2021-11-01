@@ -20,6 +20,7 @@
 <c:forEach var="board" items="${lists}">
 <tr>
 <!-- 하나씩 꺼내서 이름, 제목, 작성일, 조회수 출력 -->
+<td>${board.bbsno}</td>
 <td>${board.nickName}</td>
 <!-- 제목은 클릭하는 경우 상세내용을 보여줘야 하기에 BoardServlet에 action을 view로 보내줌 
 	doGet()에서 action이 view경우 실행.  -->

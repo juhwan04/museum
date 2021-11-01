@@ -18,6 +18,7 @@
 <td>
 <a href='<c:url value="/Board.do?action=memberList"/>'>my글</a>&nbsp;
 <a href="/museum/Board.do?action=write">글쓰기</a>&nbsp;
+<a href="/museum/Member.do?action=myPage">박물관닷컴</a>
 <h3>게시판 목록입니다.</h3>
 <table>
 <%-- 글 목록을 담은 list에서 글을 하나씩 추출 --%>
